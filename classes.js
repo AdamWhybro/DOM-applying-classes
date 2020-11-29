@@ -35,8 +35,6 @@ function three () {
 
 function makeVisible () {
   var [0] = document.getElementsByClassName('invisible') 
-
-
 }
 
 // CREATE FUNCTION makeVisible HERE
